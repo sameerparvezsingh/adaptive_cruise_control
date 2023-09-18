@@ -10,6 +10,7 @@ List of components
 6. Breadboard 
 7. Jumper wires
 
+Following circuit diagram can be used. It can be hard to see connections so the code can be used to set up connections for particular ports or the ports can be modified in the code.
 Circuit Diagram:
 ![image](https://github.com/sameerparvezsingh/adaptive_cruise_control/assets/112791092/9511386d-a3f7-4616-837e-e683c5edfd58)
 
